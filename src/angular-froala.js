@@ -34,7 +34,7 @@ angular.module('froala', []).
 			scope: scope,
 			link: function(scope, element, attrs, ngModel) {
 				if(!(element instanceof jQuery)){
-					throw "Froala requires jQuery, are you loading it before Angular?";
+                    console.warn('Element provided to angular-froala is not an instance of jQuery, it may not work as expected.');
 				}
 
 				var defaultOptions = {};

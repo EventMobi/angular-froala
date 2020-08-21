@@ -1,0 +1,42 @@
+{
+  "name": "@eventmobi/angular-froala",
+  "version": "1.2.7",
+  "description": "angular-froala provides AngularJS bindings to the froala WYSIWYG editor.",
+  "main": "src/angular-froala.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Cameron Gallarno",
+      "email": "cgallarno@gmail.com"
+    },
+    {
+      "name": "Stefan Neculai",
+      "email": "stefan@froala.com"
+    }
+  ],
+  "keywords": [
+    "angular.js",
+    "froala",
+    "html",
+    "text",
+    "editor",
+    "wysisyg",
+    "jquery-plugin",
+    "rich editor",
+    "rich text editor",
+    "rte",
+    "javascript",
+    "jquery"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EventMobi/angular-froala.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EventMobi/angular-froala/issues"
+  },
+  "homepage": "https://github.com/EventMobi/angular-froala#readme"
+}
